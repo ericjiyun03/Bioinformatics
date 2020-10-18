@@ -1,5 +1,5 @@
 # Bioinformatics
-Simple python script for Bioinformatics. I made python code to generate dictionary for A->I site with transcript ID as Key for both hg38 and hg19.
+Simple python script for Bioinformatics. I made python code to generate dictionary for transcript ID: A to I mutation site both for hg38 and hg19 database.
 
 ## contents
 - transcript_to_editing_hg38.pickle: HG38 transcript to A->I site location dictionary with HG38 database
