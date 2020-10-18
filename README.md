@@ -1,4 +1,5 @@
-# Fun Bioinformatics
+# 
+Bioinformatics
 Simple python script for Bioinformatics. I made python code to generate dictionary for A->I site with transcript ID as Key for both hg38 and hg19.
 
 ## contents
