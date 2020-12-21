@@ -1,5 +1,5 @@
 # Bioinformatics
-Simple python script for Bioinformatics python code I used for my neoepiscope RNA edditing project [see my forked neoepiscope github](https://github.com/ericjiyun03/neoepiscope). I made python code to generate dictionary for {transcript ID: A to I mutation site} both for hg38 and hg19 database.
+Python script for Bioinformatics code I made in Neoepiscope RNA editing project [see my forked neoepiscope github](https://github.com/ericjiyun03/neoepiscope). It generates dictionary for {transcript ID: A to I mutation site} both for hg38 and hg19 database.
 
 ## contents
 - transcript_to_editing_hg38.pickle: transcript to A->I site location dictionary with HG38 database
