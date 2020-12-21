@@ -7,5 +7,6 @@ Simple python script for Bioinformatics. I made python code to generate dictiona
 - intervals_to_transcript.pickle: interval tree data for transcript ID in HG19 database
 - Human_AG_all_hg19.txt A to I mutation site downloaded from RADAR
 - conversion script:
-  - find_editting_site.py : generate HG19 based transcript to A to I database
-  - find_editting_site_hg38.py: generate HG38 based transcript to A to I database
+  - find_editting_site.py : generate HG19 based transcript to A to I database. It generate transcript_to_editing.pickle
+  - find_editting_site_hg38.py: generate HG38 based transcript to A to I database. It generate transcript_to_editing_hg38.pickle
+  - those transcript to A to I database pickle file will be used in neoepiscope for RNA editting. See [my forked neoepiscope github](https://github.com/ericjiyun03/neoepiscope)
